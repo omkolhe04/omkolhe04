@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Om Kolhe ! 👋
 
-I am a passionate **[Your Role/Position]**, experienced in **[Your Skills/Technologies]**. Welcome to my GitHub profile!
+I am a passionate **Full STack Developer**, experienced in **6 Month of Freelancing**. Welcome to my GitHub profile!
 
 ---
 
