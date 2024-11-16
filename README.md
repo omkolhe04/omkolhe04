@@ -12,9 +12,9 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MERN-ED8B00?style=for-the-badge&logo=node&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-02569B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-ffca28?style=for-the-badge&logo=data&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
