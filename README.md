@@ -32,22 +32,13 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
-</p>
-
----
-
 <h2 align="center">📂 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/your-github-username/project1">
+  <a href="https://github.com/omkolhe04/hosted-room2me.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project1&theme=radical" />
   </a>
-  <a href="https://github.com/your-github-username/project2">
+  <a href="https://github.com/chetanbhone/D-Link.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project2&theme=radical" />
   </a>
 </p>
@@ -67,33 +58,17 @@
 
 ---
 
-<h2 align="center">🏅 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&row=1&column=7" />
-</p>
-
----
-
-<h2 align="center">📊 Wakatime Coding Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=tokyonight&layout=compact" />
-</p>
-
----
-
 <h2 align="center">👨‍💼 About Me</h2>
 
 <p align="center">
-  I'm [Your Name], a passionate developer who loves building things that help people. Whether it’s contributing to open-source projects or mentoring aspiring developers, I’m always learning and looking for new challenges.
+  I'm Om Kolhe, a passionate developer who loves building things that help people and generate revenue. Whether it’s contributing to open-source projects, I’m always learning and looking for new challenges.
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:omkolhe12@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/omkolhe/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://your-portfolio-link.com">
@@ -106,5 +81,5 @@
 <h2 align="center">💡 Fun Facts</h2>
 
 - 🎯 I love contributing to open-source projects!
-- 📚 I mentor and teach developers in my free time.
+- 📚 I work on freelancing projects in my free time.
 - 🧩 I enjoy solving complex problems with elegant solutions.
