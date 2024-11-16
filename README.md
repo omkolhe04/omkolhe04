@@ -1,12 +1,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/your-image-url/banner.png" alt="Welcome to my Profile!" />
 
-# Hi there, I'm [Your Name] 👨‍💻 
+# Hi there, I'm Om Kolhe 👨‍💻 
 
-### 🚀 Full Stack Developer | Open Source Contributor | Mentor  
+### 🚀 MERN Stack Developer | Python  | Android Developer
 - 🏆 Always learning and building new things.  
-- 🌱 I’m currently working on [Your Current Project]  
-- 💬 Ask me about **Java**, **Flutter**, **Backend Development**  
-- 😄 Pronouns: He/Him/They  
+- 🌱 I’m currently working on Freelancing projects  
+- 💬 Ask me about **MERN**, **python**
 
 ---
 
