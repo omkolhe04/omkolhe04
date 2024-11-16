@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/your-image-url/banner.png" alt="Welcome to my Profile!" />
+<img align="center" src="[https://user-images.githubusercontent.com/your-image-url/banner.png](https://github.com/account)" alt="Welcome to my Profile!" />
 
 # Hi there, I'm Om Kolhe 👨‍💻 
 
