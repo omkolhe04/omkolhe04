@@ -6,7 +6,7 @@
 - 🏆 Always learning and building new things.  
 - 🌱 I’m currently working on Freelancing projects  
 - 💬 Ask me about **MERN**, **python**
-- <a href="https://omkolhe.netlify.app" style="text-decoration: none; color: inherit;">🪪 Om Kolhe | Portfolio</a>
+- <a href="https://omkolhe.netlify.app" style="text-decoration: none; color: white;">🪪 Om Kolhe | Portfolio</a>
 
 ---
 
